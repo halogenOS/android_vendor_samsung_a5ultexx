@@ -122,7 +122,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
     vendor/samsung/a5ultexx/proprietary/lib/drm/libdrmwvmplugin.so:system/lib/drm/libdrmwvmplugin.so \
-    vendor/samsung/a5ultexx/proprietary/lib/libedmnativehelper.so:system/lib/libedmnativehelper.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
     vendor/samsung/a5ultexx/proprietary/bin/irsc_util:system/bin/irsc_util \
@@ -181,7 +180,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a5ultexx/proprietary/lib/libcordon.so:system/lib/libcordon.so \
     vendor/samsung/a5ultexx/proprietary/lib/libfactoryutil.so:system/lib/libfactoryutil.so \
     vendor/samsung/a5ultexx/proprietary/lib/libomission_avoidance.so:system/lib/libomission_avoidance.so \
-    vendor/samsung/a5ultexx/proprietary/lib/librmnetctl.so:system/lib/librmnetctl.so \
     vendor/samsung/a5ultexx/proprietary/etc/plmn_se13.bin:system/etc/plmn_se13.bin \
     vendor/samsung/a5ultexx/proprietary/etc/plmn_delta.bin:system/etc/plmn_delta.bin \
     vendor/samsung/a5ultexx/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
@@ -239,7 +237,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a5ultexx/proprietary/lib/libatparser.so:system/lib/libatparser.so \
     vendor/samsung/a5ultexx/proprietary/lib/libstlport.so:system/lib/libstlport.so \
     vendor/samsung/a5ultexx/proprietary/lib/libprotobuf-cpp-l1te.so:system/lib/libprotobuf-cpp-l1te.so \
-    vendor/samsung/a5ultexx/proprietary/vendor/lib/hw/audio_amplifier.msm8916.so:system/vendor/lib/hw/audio_amplifier.msm8916.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so \
     vendor/samsung/a5ultexx/proprietary/vendor/lib/libsecnativefeature.so:system/vendor/lib/libsecnativefeature.so \
     vendor/samsung/a5ultexx/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
